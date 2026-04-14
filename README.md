@@ -17,7 +17,6 @@ This project shows how to build a Library Management System using SQL. It involv
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/Fathimanidaa/Sql_Library_system_management_project//blob/main/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
